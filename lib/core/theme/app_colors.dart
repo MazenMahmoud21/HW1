@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
-  static const Color primary = Color(0xFFC86F18); // Burnt Orange
+  static const Color primary = Color(0xFFAF5500); // Updated Burnt Orange
   static const Color secondary = Color(0xFF2D2D2D); // Dark Text
   static const Color background = Color(0xFFFFF8F0); // Cream/Off-white
   static const Color surface = Color(0xFFFFFFFF);
